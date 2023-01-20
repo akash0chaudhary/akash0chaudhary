@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akash0chaudhary
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning different coding language.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me: Contact me via mail @  akashchaudhary623@gmail.com
 
 <!---
